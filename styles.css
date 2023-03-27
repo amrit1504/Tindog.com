@@ -45,6 +45,8 @@ h3{
 
 .navbar{
 padding: 0 0 4.5rem;
+position: sticky;
+top: 1px ;
   }
   
 .nav-item{
